@@ -1,0 +1,2 @@
+https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html
+https://api.dart.dev/stable/2.16.2/dart-core/Object-class.html

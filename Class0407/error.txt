@@ -1,0 +1,14 @@
+Dart extension: don't access members with 'this' unless avoiding shadowing
+뜻: 굳이 this. 를 이용하여 참조하지 않아도 됨.
+참고: https://stackoverflow.com/questions/59599657/dart-extension-dont-access-members-with-this-unless-avoiding-shadowing
+
+The operator '[]' isn't defined for the type 'Object'
+뜻: If we don't specify anything in the generic part, Dart will in this case automatically assume T is Object?
+Dart 가 generic 타입을 Object? 로 추정함.
+참고: https://flutterhq.com/questions-and-answers/1204/how-to-resolve-the-operator-isnt-defined-for-the-type-object
+
+
+The property (    ) can't be unconditionally accessed because the receiver can be 'null'.
+뜻: property 가 dynamic 타입으로 되어 있었음.
+dynamic으로 선언되는 것 자체가 Nullable임을 의미함.
+참고: https://kkangsnote.tistory.com/98
