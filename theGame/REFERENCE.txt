@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=w0LOXLcVehA
 [테마]
 2. theme 적용
 https://stackoverflow.com/questions/70590455/flutter-move-theme-themedata-to-a-separate-file
+
+[파워 포인트]
+1. 템플릿
+https://yusaebyeol.blogspot.com/2020/05/powerpoint-template-free-download-ppt_10.html
