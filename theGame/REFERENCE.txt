@@ -1,0 +1,39 @@
+[화면 전환]
+1. Navigator를 이용한 기본 전환
+https://niqrid2020.pe.kr/flutter-%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB-%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A1%E1%86%BC%EB%B2%95/
+2. 페이지 스택
+https://calvinjmkim.tistory.com/67
+3. Navigator.___ 를 이용한 named Router 사용
+https://flutter-ko.dev/docs/cookbook/navigation/named-routes
+
+[위젯 위치/정렬/크기]
+1. 위치/정렬/크기
+https://hevton.tistory.com/486
+2. 위젯 구조
+https://jacobko.info/flutter/flutter-02/
+3. Row/Column 정렬
+https://beomseok95.tistory.com/310
+
+[네비게이션 바]
+1. BottomNavigationBar 만들기
+https://www.youtube.com/watch?v=4c36HNckh8A
+2. bar을 그대로 두고 body만 바꾸기
+https://stackoverflow.com/questions/68359348/how-to-push-a-route-from-inside-the-body-of-a-scaffold-with-a-bottomnavigationba
+
+[시작 화면]
+1. 로딩 화면 구현
+https://box-world.tistory.com/75
+2. Back Button 시 팝업창 띄우기
+https://fenderist.tistory.com/133
+
+[Named Router]
+1. Router 설정하고 연결하기
+https://childcare-daddy.tistory.com/2
+
+[게임]
+1. 가위바위보 구현
+https://www.youtube.com/watch?v=w0LOXLcVehA
+
+[테마]
+2. theme 적용
+https://stackoverflow.com/questions/70590455/flutter-move-theme-themedata-to-a-separate-file
